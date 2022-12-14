@@ -1,5 +1,5 @@
 '''This script is meant to show basic proficiency with pandas dataframes. I was asked
-to strip and collect data from a CSV file based on specific parameters. Then I was asked to merge
+to strip and collect data from a CSV file (also provided in this folder) based on specific parameters. Then I was asked to merge
 the data." 
 
 import pandas as pd
